@@ -6,8 +6,14 @@ De consertar PC e servidores no chão de loja a treinar modelos de Machine Learn
   <a href="https://www.linkedin.com/in/fabricio-tonetta-33a2462a0">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100068285214717">
+    <img src="https://img.shields.io/badge/Facebook-Conecte--se-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="mailto:fabricio.tonetta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fabricio.tonetta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5554984480190">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 🚀 Sobre mim
@@ -21,6 +27,10 @@ Estou em transição de carreira: depois de anos resolvendo problemas na prátic
 💻 Anos de experiência freelance consertando computadores — ainda faço alguns reparos
 🧠 Foco atual: Python · Machine Learning · Deep Learning · Big Data · APIs REST
 🌱 Autodidata: comecei sem experiência prévia em programação e construí cada projeto abaixo do zero
+
+🧠 Foco atual
+
+Python · Machine Learning · Deep Learning · Big Data · APIs REST
 
 📌 Projetos em destaque
 
@@ -57,5 +67,6 @@ Sistema inteligente de controle de estoque para velas artesanais com ML e IA gen
 </p>
 
 <p align="center">
-<i>"Aut viam inveniam aut faciam" — vou encontrar um caminho ou vou construir um.</i>
+<b>"Aut viam inveniam aut faciam"</b><br>
+<sub><i>vou encontrar um caminho ou vou construir um</i></sub>
 </p>

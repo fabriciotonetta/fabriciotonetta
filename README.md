@@ -11,7 +11,7 @@ De consertar PC e servidores no chão de loja a treinar modelos de Machine Learn
   </a>
   <a href="mailto:fabricio.tonetta@gmail.com">
     <img src="https://img.shields.io/badge/Email-fabricio.tonetta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</a>
   <a href="https://wa.me/5554984480190">
     <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -63,8 +63,7 @@ Sistema inteligente de controle de estoque para velas artesanais com ML e IA gen
   <img src="https://github-readme-stats.vercel.app/api?username=fabriciotonetta&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciotonetta&theme=tokyonight" alt="Streak de contribuições" />
-</p>
+  </p>
 
 <p align="center">
 <b>"Aut viam inveniam aut faciam"</b><br>

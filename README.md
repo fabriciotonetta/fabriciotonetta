@@ -34,7 +34,10 @@ Python · Machine Learning · Deep Learning · Big Data · APIs REST
 
 📌 Projetos em destaque
 
-🩵 ia-previsao-salario
+### 🌱 [classificador_de_doencas_de_plantas](https://github.com/fabriciotonetta/classificador_de_doencas_de_plantas)
+Meu primeiro repositório no GitHub. Um modelo de IA que detecta doenças em plantas a partir de imagens de folhas, usando **CNN (Redes Neurais Convolucionais)** e **Transfer Learning**. Foi onde comecei a colocar em prática tudo que vinha estudando em Machine Learning.
+
+### 🩵 ia-previsao-salario
 
 Sistema de previsão salarial para profissionais de TI, com API REST, comparação de modelos de regressão e deploy em produção
 

@@ -32,30 +32,25 @@ Estou em transição de carreira: depois de anos resolvendo problemas na prátic
 
 Python · Machine Learning · Deep Learning · Big Data · APIs REST
 
-📌 Projetos em destaque
+## 📌 Projetos em destaque
 
 ### 🌱 [classificador_de_doencas_de_plantas](https://github.com/fabriciotonetta/classificador_de_doencas_de_plantas)
 Meu primeiro repositório no GitHub. Um modelo de IA que detecta doenças em plantas a partir de imagens de folhas, usando **CNN (Redes Neurais Convolucionais)** e **Transfer Learning**. Foi onde comecei a colocar em prática tudo que vinha estudando em Machine Learning.
 
-### 🩵 ia-previsao-salario
+### 💙 [ia-previsao-salario](https://github.com/fabriciotonetta/ia-previsao-salario)
+Sistema de previsão salarial para profissionais de TI, com comparação de modelos de regressão e deploy de API REST em produção.
 
-Sistema de previsão salarial para profissionais de TI, com API REST, comparação de modelos de regressão e deploy em produção
-
-🐦 [flappy-bird-ai-neat](https://github.com/fabriciotonetta/flappy-bird-ai-neat)
-
+### 🐦 [flappy-bird-ai-neat](https://github.com/fabriciotonetta/flappy-bird-ai-neat)
 IA que aprende a jogar Flappy Bird usando algoritmos genéticos (NEAT) e redes neurais, com visualização em tempo real da rede neural durante o treinamento.
 
-💬 sentiment-classifier-knime
-
+### 💬 [sentiment-classifier-knime](https://github.com/fabriciotonetta/sentiment-classifier-knime)
 Pipeline completo de NLP construído em KNIME (CSV → pré-processamento → TF-IDF → Regressão Logística) para classificação de sentimento em texto.
 
-🧩 hopsmind
+### 🍺 [hopsmind](https://github.com/fabriciotonetta/hopsmind)
+Gerador de receitas de cerveja com Machine Learning (K-Means) e interface web em Streamlit. Analisa 73k+ receitas reais e cria novas — incluindo sabores exóticos brasileiros com rótulos gerados por IA.
 
-Gerador de receitas de cerveja com Machine Learning (K-Means) e interface web Streamlit. Analisa 73k+ receitas reais e cria novas — incluindo sabores exóticos brasileiros com rótulos gerados por IA.
-
-🕯️ [velas-estoque-ia](https://github.com/fabriciotonetta/velas-estoque-ia)
-
-Sistema inteligente de controle de estoque para velas artesanais com ML e IA generativa
+### 🕯️ [velas-estoque-ia](https://github.com/fabriciotonetta/velas-estoque-ia)
+Sistema inteligente de controle de estoque para velas artesanais com ML e IA generativa.
 
 ## 🛠️ Tecnologias
 

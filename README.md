@@ -4,7 +4,7 @@ De consertar PC e trabalhar nos servidores em chão de loja a treinar modelos de
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/fabricio-tonetta-33a2462a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100068285214717">
     <img src="https://img.shields.io/badge/Facebook-Conecte--se-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />

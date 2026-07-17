@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Fabricio 👋</h1>
 <p align="center">
-De consertar PC e servidores no chão de loja a treinar modelos de Machine Learning.
+De consertar PC e trabalhar nos servidores em chão de loja a treinar modelos de Machine Learning.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/fabricio-tonetta-33a2462a0">

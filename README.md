@@ -54,18 +54,14 @@ Gerador de receitas de cerveja com Machine Learning (K-Means) e interface web St
 
 Sistema inteligente de controle de estoque para velas artesanais com ML e IA generativa
 
-
-
-
-📊 GitHub Stats
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabriciotonetta&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-<p align="center">
-  </p>
 
-<p align="center">
-<b>"Aut viam inveniam aut faciam"</b><br>
-<sub><i>vou encontrar um caminho ou vou construir um</i></sub>
-</p>
+

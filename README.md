@@ -39,7 +39,7 @@ Também sou administrador de uma comunidade de desenvolvedores no WhatsApp, cria
 - ✅ 1 ano em suporte de T.I. / servidores de loja (Carrefour)
 - ✅ Tecnólogo em I.A. & Machine Learning — aguardando nota final para colação de grau
 - 🔜 Pós-graduação em Desenvolvimento de Sistemas com Python — matrícula prevista para este mês / o próximo
-- 🔜 Pós-graduação em Big Data
+- 🔜 Pós-graduação em Big Data — matrícula prevista para este mês / o próximo
 - 📚 Estudando atualmente: Docker · Arquitetura de Software · FastAPI · Kubernetes · MLOps
 
 ### 📜 Certificações

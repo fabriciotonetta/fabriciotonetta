@@ -52,13 +52,13 @@ Também administro uma comunidade de desenvolvedores no WhatsApp, criada e curad
 
 ## 📌 Projetos em destaque
 
-### 🌱 [classificador-de-doencas-de-plantas](https://github.com/fabriciotonetta/classificador_de_doencas_de_plantas)
+### 🌱 [classificador-de-doencas-de-plantas](https://github.com/fabriciotonetta/classificador-de-doencas-de-plantas)
 Meu primeiro repositório no GitHub. Um modelo de IA que detecta doenças em plantas a partir de imagens de folhas, usando **CNN (Redes Neurais Convolucionais)** e **Transfer Learning**.
 
 ### 💙 [ia-previsao-salario](https://github.com/fabriciotonetta/ia-previsao-salario)
 Sistema de previsão salarial para profissionais de TI, com comparação de modelos de regressão e deploy de API REST em produção.
 
-### 🐦 [flappy-bird-ai-neat](https://github.com/fabriciotonetta/flappy-bird-ai-neat)
+### 🐦 [flappy-bird-ia-neat](https://github.com/fabriciotonetta/flappy-bird-ia-neat)
 IA que aprende a jogar Flappy Bird usando algoritmos genéticos (NEAT) e redes neurais, com visualização em tempo real da rede neural durante o treinamento.
 
 ### 🍺 [hopsmind](https://github.com/fabriciotonetta/hopsmind)

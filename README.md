@@ -1,7 +1,12 @@
 <h1 align="center">Olá, eu sou o Fabricio 👋</h1>
 
 <p align="center">
-De consertar PC e trabalhar nos servidores em chão de loja a treinar modelos de Machine Learning.
+<b>Técnico em T.I. em transição para Inteligência Artificial & Machine Learning.</b><br/>
+De consertar PC e sustentar servidores em chão de loja a treinar modelos do zero.
+</p>
+
+<p align="center">
+  🎯 Em busca de <b>estágio ou vaga júnior</b> em Inteligência Artificial / Python
 </p>
 
 <p align="center">
@@ -19,19 +24,13 @@ De consertar PC e trabalhar nos servidores em chão de loja a treinar modelos de
   </a>
 </p>
 
-<p align="center">
-  🎯 Em busca de <b>estágio ou vaga júnior</b> em Inteligência Artificial / Python
-</p>
-
 ---
 
 ### 🚀 Sobre mim
 
-Estou em transição de carreira para I.A. e Machine Learning, trazendo comigo anos resolvendo problema real: manutenção de computadores, suporte a servidores de loja e freelas de T.I. Hoje aplico essa mesma mentalidade — diagnosticar, testar, entregar — para construir modelos e produtos de dados do zero.
+Depois de anos resolvendo problema real — manutenção de computadores, suporte a servidores de loja, freelas de T.I. — migrei essa mesma mentalidade (diagnosticar, testar, entregar) para Machine Learning. Autodidata: comecei sem experiência prévia em programação e construí cada projeto abaixo sozinho, do dataset ao deploy.
 
-Sou autodidata: comecei sem experiência prévia em programação e construí cada projeto abaixo sozinho, do dataset ao deploy.
-
-Também sou administrador de uma comunidade de desenvolvedores no WhatsApp, criada e curada por mim, misturando devs experientes e estudantes — um espaço de troca técnica que ajudo a manter ativo.
+Também administro uma comunidade de desenvolvedores no WhatsApp, criada e curada por mim, misturando devs experientes e estudantes.
 
 ### 🧭 Roadmap
 
@@ -39,7 +38,7 @@ Também sou administrador de uma comunidade de desenvolvedores no WhatsApp, cria
 - ✅ 1 ano em suporte de T.I. / servidores de loja (Carrefour)
 - ✅ Tecnólogo em I.A. & Machine Learning — aguardando nota final para colação de grau
 - 🔜 Pós-graduação em Desenvolvimento de Sistemas com Python — matrícula prevista para este mês / o próximo
-- 🔜 Pós-graduação em Big Data — matrícula prevista para este mês / o próximo
+- 🔜 Pós-graduação em Big Data
 - 📚 Estudando atualmente: Docker · Arquitetura de Software · FastAPI · Kubernetes · MLOps
 
 ### 📜 Certificações
@@ -62,9 +61,6 @@ Sistema de previsão salarial para profissionais de TI, com comparação de mode
 ### 🐦 [flappy-bird-ai-neat](https://github.com/fabriciotonetta/flappy-bird-ai-neat)
 IA que aprende a jogar Flappy Bird usando algoritmos genéticos (NEAT) e redes neurais, com visualização em tempo real da rede neural durante o treinamento.
 
-### 💬 [sentiment-classifier-knime](https://github.com/fabriciotonetta/sentiment-classifier-knime)
-Pipeline completo de NLP construído em KNIME (CSV → pré-processamento → TF-IDF → Regressão Logística) para classificação de sentimento em texto.
-
 ### 🍺 [hopsmind](https://github.com/fabriciotonetta/hopsmind)
 Gerador de receitas de cerveja com Machine Learning (K-Means) e interface web em Streamlit. Analisa 73k+ receitas reais e cria novas — incluindo sabores exóticos brasileiros com rótulos gerados por IA.
 
@@ -75,7 +71,18 @@ Sistema inteligente de controle de estoque para velas artesanais com ML e IA gen
 
 ---
 
-## 🛠️ Skills técnicas
+## 🧠 Competências
+
+<p>
+<b>Machine Learning</b> — classificação, regressão, clustering (K-Means), avaliação e comparação de modelos<br/>
+<b>Deep Learning</b> — redes neurais convolucionais (CNN), Transfer Learning<br/>
+<b>Algoritmos genéticos</b> — otimização e treinamento com NEAT<br/>
+<b>Análise e preparação de dados</b> — limpeza, tratamento e exploração de datasets reais<br/>
+<b>Desenvolvimento de APIs REST</b> — deploy de modelos em produção<br/>
+<b>Interfaces de dados</b> — construção de dashboards e apps interativos com Streamlit
+</p>
+
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -87,7 +94,6 @@ Sistema inteligente de controle de estoque para velas artesanais com ML e IA gen
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/KNIME-FFD700?style=for-the-badge&logo=knime&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
